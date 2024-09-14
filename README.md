@@ -7,3 +7,7 @@ Tugas 3 Grafika Komputer ini melibatkan pembuatan beberapa objek 3D dengan berba
 
 ![WebGL Tutorial 3 1 -  Cube](https://github.com/user-attachments/assets/89ca6776-4f28-41d8-9d1b-62a4c2278f90)
 
+**2) Bola (_sphere_):**
+
+![WebGL Tutorial 3 2 - Sphere](https://github.com/user-attachments/assets/d0d766cf-354b-4cf7-863b-bea6e2bfac89)
+
