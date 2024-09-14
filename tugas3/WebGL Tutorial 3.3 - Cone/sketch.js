@@ -1,3 +1,6 @@
+// from: https://editor.p5js.org/cassiejoseph/sketches/FbMhbM-Si
+
+
 //I used this tutorial https://p5js.org/examples/3d-geometries.html to bring in a new shape and made it rotate, i also incorporated a light source as in this tutorial https://p5js.org/examples/3d-multiple-lights.html//
 function setup() {
   createCanvas(400, 400, WEBGL);
